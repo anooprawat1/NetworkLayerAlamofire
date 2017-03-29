@@ -1,7 +1,5 @@
 # NetworkLayerAlamofire
 
-# NetworkLayerProtocolUrlSessesion
-
 Most of the apps interact with server, So there must be network layer abstraction to interact with server.
 
 NetworkLayerProtocolUrlSessesion demonstrate a way of abstraction and interaction with server. It uses protocol oriented
